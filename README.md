@@ -36,7 +36,7 @@ public class Example
         countries.Remove(countries.First);
         foreach (var country in countries)
         {
-            Console.WriteLine(country); //
+            Console.WriteLine(country);  //Mexico -> Japan -> Australia -> Nepal -> Canada -> Korea
         }
         
         //Remove(T)메소드 사용
@@ -44,8 +44,29 @@ public class Example
         countries.Remove("Australia");
         foreach (var country in countries)
         {
-            Console.WriteLine(country);
+            Console.WriteLine(country);  //Mexico -> Japan -> Nepal -> Canada -> Korea
         }
     }
 }
 ```
+실행 결과:
+India
+Mexico
+Japan
+Australia
+Nepal
+Canada
+Korea
+----------
+Mexico
+Japan
+Australia
+Nepal
+Canada
+Korea
+----------
+Mexico
+Japan
+Nepal
+Canada
+Korea
