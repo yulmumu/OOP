@@ -1,9 +1,9 @@
 # OOP
+C#으로 STACK 구현(배열 & 링크드 리스트) 및 테스트
 
+# code
 
-# code review
-
-using System;
+$using System;
 using System.Collections.Generic;  //제네릭 클래스는 특정 데이터 형식과 관련이 없는 작업을 캡슐화합니다.
                                      컬렉션 내부에 저장되는 데이터 타입을 컴파일 시점에서 결정할 수 있도록 해줍니다.
 
