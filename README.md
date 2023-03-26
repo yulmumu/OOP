@@ -50,6 +50,7 @@ public class Example
 }
 ```
 
+```
 실행 결과:
 India
 Mexico
@@ -71,3 +72,4 @@ Japan
 Nepal
 Canada
 Korea
+```
