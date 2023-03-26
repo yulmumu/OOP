@@ -1,7 +1,7 @@
 # OOP
 
 
-#code review
+# code review
 
 using System;
 using System.Collections.Generic;  //제네릭 클래스는 특정 데이터 형식과 관련이 없는 작업을 캡슐화합니다.
